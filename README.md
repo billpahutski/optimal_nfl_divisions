@@ -1,5 +1,5 @@
 # optimal_nfl_divisions
-Using KNN clustering to reallocate the divisions in the NFL to be optimzed
+Using KMeans Constrained clustering to reallocate the divisions in the NFL to be optimzed
 
 Writeup:
 
